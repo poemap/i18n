@@ -125,6 +125,6 @@
   "button.login.reload": "Neu laden",
   "button.login.continue": "Fortsetzen",
   "translation.info": "Du möchtest die Übersetzung verbessern? Trage hier dazu bei",
-  "contributors.text": "Übersetzt von {{Punki1}}",
-  "contributors.names": ""
+  "contributors.text": "Übersetzt von {{contributors.names}}",
+  "contributors.names": "Punki61"
 }
