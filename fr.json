@@ -115,7 +115,7 @@
   "login.hero.selection.placeholder": "Sélectionnez votre personnage actif",
   "login.error.credentials": "Erreur d'authentification",
   "login.hero.empty.main": "Vos informations sont correctes mais nous n'avons pas trouvé de personnage existant pour <b>{{username}}</b>.",
-  "login.hero.empty.warning.prefix": "Veuillez vérifier que votre <b>onglet des personnages</b> n'est pas privé",
+  "login.hero.empty.warning.prefix": "Veuillez vérifier que votre <b>onglet des personnages</b> n'est pas privé ",
   "login.hero.empty.warning.url_word": "ici",
   "login.hero.empty.warning.suffix": ".",
   "login.hero.empty.reminder": "N'oubliez pas de sauvegarder vos changements ici",
@@ -125,5 +125,5 @@
   "button.login.reload": "Recharger",
   "button.login.continue": "Continuer",
   "translation.info": "Vous voulez améilorer la traduction? Contribuez ici",
-  "contributors": ""
+  "contributors": "Matgore13"
 }
