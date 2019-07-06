@@ -125,5 +125,6 @@
   "button.login.reload": "Recharger",
   "button.login.continue": "Continuer",
   "translation.info": "Vous voulez améilorer la traduction? Contribuez ici",
-  "contributors": "Matgore13"
+  "contributors.text": "Traduit par {{contributors.names}}",
+  "contributors.names": "Matgore13"
 }

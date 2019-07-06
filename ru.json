@@ -125,5 +125,6 @@
   "button.login.reload": "Перезагрузить",
   "button.login.continue": "Продолжить",
   "translation.info": "Желаете улучшить перевод? Внесите вклад здесь",
-  "contributors": ""
+  "contributors.text": "Перевод: {{contributors.names}}",
+  "contributors.names": "snql"
 }

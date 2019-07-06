@@ -125,5 +125,6 @@
   "button.login.reload": "Reload",
   "button.login.continue": "Continue",
   "translation.info": "Сhcesz poprawić tłumaczenie? Spójrz tutaj",
-  "contributors": ""
+  "contributors.text": "Translated by {{contributors.names}}",
+  "contributors.names": ""
 }
