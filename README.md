@@ -12,5 +12,6 @@ Supported languages for UI:
 9. [Thai](th.json)
 
 Feel free to contribute and suggest new languages.
+
 We're sure that in every language some things can be said better or shorter. Be free when translating.
 Also, don't forget to include your name to the "contributors.names".
