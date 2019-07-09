@@ -28,11 +28,11 @@
   "board.info.want": "Quieres",
   "board.tier.selected": "grados seleccionados",
   "board.label.main": "intercambio de grado-a-grado",
-  "board.map.type.regular": "Mapa regular",
+  "board.map.type.regular": "Regular",
   "board.map.type.regular.short": "R",
-  "board.map.type.shaper": "Mapa modificado",
+  "board.map.type.shaper": "Shaper",
   "board.map.type.shaper.short": "S",
-  "board.map.type.elder": "Mapa del antiguo",
+  "board.map.type.elder": "Elder",
   "board.map.type.elder.short": "E",
   "bar.cross.text": "Ignorar niveles",
   "bar.cross.hint": "Te permite intercambiar mapas ignorando el grado. Esta opción debe estar habilitada desde ambos lados de la negociación",  
@@ -130,5 +130,5 @@
   "button.login.continue": "Continuar",
   "translation.info": "¿Quieres mejorar la traducción? Ayuda aquí",
   "contributors.text": "Traducción por {{contributors.names}}",
-  "contributors.names": ""
+  "contributors.names": "_Nico"
 }
