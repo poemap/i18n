@@ -15,12 +15,12 @@
   "button.settings.hint": "Configurações",
   "button.preview.notify": "Copiado para área de transferência",
   "button.notify.ok": "OK",
-  "button.notify.connect.force": "Forçar"
-  "button.notify.league.ignore": "Ignorar
-  "button.notify.page.refresh": "Atualizar"
-  "button.notify.loader.reload": "Recarregar
-  "update.text": "Atualização disponível"
-  "connection.init": "Conectando"
+  "button.notify.connect.force": "Forçar",
+  "button.notify.league.ignore": "Ignorar",
+  "button.notify.page.refresh": "Atualizar",
+  "button.notify.loader.reload": "Recarregar",
+  "update.text": "Atualização disponível",
+  "connection.init": "Conectando",
   "board.tier": "Nível {{number}}",
   "board.unique": "Unico",
   "board.fragments": "Fragmentos",
