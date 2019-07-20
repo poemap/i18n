@@ -6,7 +6,7 @@ Supported languages for UI:
 3. [English](en.json)
 4. [Korean](ko.json) - help needed
 5. [Spanish](es.json)
-6. [Polish](pl.json) - help needed
+6. [Polish](pl.json)
 7. [Portuguese](pt.json)
 8. [Russian](ru.json)
 9. [Thai](th.json) - help needed
