@@ -51,7 +51,7 @@
   "settings.header": "Ustawienia",
   "settings.items-language.placeholder": "Język przedmiotów",
   "settings.ui-language.placeholder": "Język interfejsu",
-  "settings.connection-animation.placeholder": "Tutaj powinna być animacja łączenia",
+  "settings.connection-animation.placeholder": "Animacja łączenia",
   "settings.map.style.desk.placeholder": "Styl map: desks",
   "settings.map.style.offer.placeholder": "Styl map: offers",
   "settings.map.style.icon": "Ikona",
