@@ -38,6 +38,8 @@
   "bar.cross.hint": "Erlaubt dir Karten über das Kartenlevel hinaus zu tauschen. Dies sollte bei beiden Tauschpartnern aktiviert sein.",
   "bar.stats.main": "Level - Aktive Spieler",
   "bar.stats.empty": "Keine Treffer. Versuche es später nochmal.",
+  "bar.regions.main": "Region - Aktive Spieler",
+  "bar.regions.empty": "Keine Treffer. Versuche es später nochmal.",
   "bar.advice.inactive": "Hinweise sind deaktiviert. Klicke zum Aktivieren.",
   "bar.advice.hint": "Klicke um Hinweise zu deaktivieren.",
   "bar.advice.0": "\uD83D\uDEC8 Es ist einfach uns zu unterstützen - erzähle deinen Freunde oder deiner Gilde von PoeMap",

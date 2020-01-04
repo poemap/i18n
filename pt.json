@@ -38,6 +38,8 @@
   "bar.cross.hint": "Permite que troque mapas ignorando os níveis. Essa opção deve estar ativa em ambos os lados.",
   "bar.stats.main": "Nível - Jogadores ativos",
   "bar.stats.empty": "Nada foi encontrado. Tente novamente mais tarde.",
+  "bar.regions.main": "Região - Jogadores ativos",
+  "bar.regions.empty": "Nada foi encontrado. Tente novamente mais tarde.",
   "bar.advice.inactive": "As dicas estão desativadas. Clique para ativa-las.",
   "bar.advice.hint": "Clique para desativar as dicas.",
   "bar.advice.0": "\uD83D\uDEC8 É simples nos ajudar, é só dizer aos seus amigos e à sua guild sobre PoeMap!",

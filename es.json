@@ -38,6 +38,8 @@
   "bar.cross.hint": "Te permite intercambiar mapas ignorando el grado. Esta opción debe estar habilitada desde ambos lados de la negociación",  
   "bar.stats.main": "Grado - Jugadores activos",
   "bar.stats.empty": "No se encontró nada. Intenta más tarde",
+  "bar.regions.main": "Region - Active players",
+  "bar.regions.empty": "No se encontró nada. Intenta más tarde",
   "bar.advice.inactive": "Las sugerencias están desactivados. Click para habilitarlas.",
   "bar.advice.hint": "Click para deshabilitar sugerencias.",
   "bar.advice.0": "\uD83D\uDEC8 Es simple ayudarnos - sólo cuéntale a tus amigos o tu guild sobre PoeMap",  

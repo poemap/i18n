@@ -38,6 +38,8 @@
   "bar.cross.hint": "Cela vous permet d'échanger des cartes en ignorant leur tier. Cette option doit être activée des deux côtés.",
   "bar.stats.main": "Tier - Joueurs actifs",
   "bar.stats.empty": "Rien n'a été trouvé. Réessayez plus tard",
+  "bar.regions.main": "Region - Joueurs actifs",
+  "bar.regions.empty": "Rien n'a été trouvé. Réessayez plus tard",
   "bar.advice.inactive": "Astuces désactivées. Cliquez pour les réactiver.",
   "bar.advice.hint": "Cliquez pour désactiver les astuces",
   "bar.advice.0": "\uD83D\uDEC8 C'est simple de nous soutenir - parlez juste de PoeMap à vos amis ou à votre guilde",

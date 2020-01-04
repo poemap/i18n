@@ -38,6 +38,8 @@
   "bar.cross.hint": "這個選項可以允許你無視地圖階級進行交換，兩側都需要開啟。",
   "bar.stats.main": "地圖階級 - 在線玩家",
   "bar.stats.empty": "沒有任何結果，請稍後再試。",
+  "bar.regions.main": "區域 - 在線玩家",
+  "bar.regions.empty": "沒有任何結果，請稍後再試。",
   "bar.advice.inactive": "文字提示已關閉，點擊以啟用。",
   "bar.advice.hint": "點擊取消文字提示。",
   "bar.advice.0": "\uD83D\uDEC8 要支持我們非常簡單 - 把 PoeMap 告訴你的親朋好友吧！",
