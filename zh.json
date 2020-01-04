@@ -121,7 +121,7 @@
   "login.hero.selection_prompt": "是時候來選擇你的角色了",
   "login.not_logged": "你尚未登入。",
   "login.loading": "讀取中...",
-  "login.hero.selection.hint": "選擇你的角色。雖然遊戲會將所有私訊導向你使用中的角色，但選擇正確的角色可以大大避免交易時產生的困擾。",
+  "login.hero.selection.hint": "選擇你的角色。雖然遊戲會將所有私訊導向你使用中的角色，但選擇正確的角色可以大大避免交易時產生的麻煩。",
   "login.hero.selection.placeholder": "請選擇你使用的角色",
   "login.error.credentials": "認證錯誤",
   "login.hero.empty.main": "你的帳號資料無誤，但是我們並沒有搜尋到任何屬於 <b>{{username}}</b> 的遊戲角色。",
@@ -134,7 +134,7 @@
   "button.login.back": "返回",
   "button.login.reload": "重整",
   "button.login.continue": "繼續",
-  "search.maps.placeholder": "Find maps",
+  "search.maps.placeholder": "搜尋地圖",
   "translation.info": "想要改善翻譯內容？ 來這裡吧",
   "contributors.text": "由 {{contributors.names}} 進行翻譯",
   "contributors.names": "Bahamut_SunWind"
