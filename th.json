@@ -47,6 +47,7 @@
   "bar.advice.4": "\uD83D\uDEC8 การแลกเปลี่ยนอาจจะไม่รวดเร็วเช่าช่วงสัปดาห์แรกๆของลีก โปรดใช้ความอดทน",
   "bar.advice.5": "\uD83D\uDEC8 เมื่อคุณคลิก \"พร้อม\" ผู้ใช้ท่านอื่นจะรู้ว่าคุณพร้อมที่จะแลกเปลี่ยนแล้ว แต่สำหรับคนอื่นๆจะเห็นว่า \"ไม่ว่าง\" ซึ่งพวกเขาจะไม่รบกวนคุณ",
   "bar.advice.6": "\uD83D\uDEC8 หลังจากส่งข้อความไปแล้วกรุณารอการเชิญเข้าปาร์ตี้สักครู่",
+  "bar.advice.7": "\uD83D\uDEC8 It is possible to change the map view from the icon to the text in ⚙ Settings",
   "offers.empty.message": "เล่นต่อได้เลย คุณจะพบข้อเสนอใหม่เร็วๆนี้...",
   "settings.header": "การตั้งค่า",
   "settings.items-language.placeholder": "ภาษาของไอเทม",
