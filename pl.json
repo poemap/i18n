@@ -129,6 +129,7 @@
   "button.login.back": "Powrót",
   "button.login.reload": "Odśwież",
   "button.login.continue": "Kontynuuj",
+  "search.maps.placeholder": "Find maps",
   "translation.info": "Сhcesz poprawić tłumaczenie? Zerknij tutaj",
   "contributors.text": "Przetłumaczone przez {{contributors.names}}",
   "contributors.names": "harrrson, astaentreri"

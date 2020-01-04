@@ -129,6 +129,7 @@
   "button.login.back": "Volver",
   "button.login.reload": "Recargar",
   "button.login.continue": "Continuar",
+  "search.maps.placeholder": "Find maps",
   "translation.info": "¿Quieres mejorar la traducción? Ayuda aquí",
   "contributors.text": "Traducción por {{contributors.names}}",
   "contributors.names": "_Nico"

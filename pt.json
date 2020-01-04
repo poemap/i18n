@@ -129,6 +129,7 @@
   "button.login.back": "Voltar",
   "button.login.reload": "Recarregar",
   "button.login.continue": "Continuar",
+  "search.maps.placeholder": "Find maps",
   "translation.info": "Quer ajudar com a tradução? Contribua aqui",
   "contributors.text": "Traduzido por {{contributors.names}}",
   "contributors.names": "Rethbael"

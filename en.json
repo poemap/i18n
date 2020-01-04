@@ -129,6 +129,7 @@
   "button.login.back": "Back",
   "button.login.reload": "Reload",
   "button.login.continue": "Continue",
+  "search.maps.placeholder": "Find maps",
   "translation.info": "Want to improve the translation? Contribute here",
   "contributors.text": "Translated by {{contributors.names}}",
   "contributors.names": "snql, Beast"

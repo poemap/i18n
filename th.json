@@ -129,6 +129,7 @@
   "button.login.back": "ย้อนกลับ",
   "button.login.reload": "โหลดใหม่",
   "button.login.continue": "ทำต่อ",
+  "search.maps.placeholder": "Find maps",
   "translation.info": "ยาแก้ไขการแปลให้ดีขึ้นไหม? มาช่วยกันได้ที่นี่",
   "contributors.text": "แปลโดย {{contributors.names}}",
   "contributors.names": "XiaZ"

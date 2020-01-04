@@ -129,6 +129,7 @@
   "button.login.back": "返回",
   "button.login.reload": "重整",
   "button.login.continue": "繼續",
+  "search.maps.placeholder": "Find maps",
   "translation.info": "想要改善翻譯內容？ 來這裡吧",
   "contributors.text": "由 {{contributors.names}} 進行翻譯",
   "contributors.names": "Bahamut_SunWind"

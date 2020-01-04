@@ -129,6 +129,7 @@
   "button.login.back": "Zurück",
   "button.login.reload": "Neu laden",
   "button.login.continue": "Fortsetzen",
+  "search.maps.placeholder": "Find maps",
   "translation.info": "Du möchtest die Übersetzung verbessern? Trage hier dazu bei",
   "contributors.text": "Übersetzt von {{contributors.names}}",
   "contributors.names": "Punki61, TheBelgarion"

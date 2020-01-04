@@ -129,6 +129,7 @@
   "button.login.back": "Retour",
   "button.login.reload": "Recharger",
   "button.login.continue": "Continuer",
+  "search.maps.placeholder": "Find maps",
   "translation.info": "Vous voulez améilorer la traduction? Contribuez ici",
   "contributors.text": "Traduit par {{contributors.names}}",
   "contributors.names": "Matgore13"

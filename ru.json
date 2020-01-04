@@ -129,6 +129,7 @@
   "button.login.back": "Назад",
   "button.login.reload": "Перезагрузить",
   "button.login.continue": "Продолжить",
+  "search.maps.placeholder": "Быстрый поиск",
   "translation.info": "Желаете улучшить перевод? Внесите вклад здесь",
   "contributors.text": "Перевод: {{contributors.names}}",
   "contributors.names": "snql"
