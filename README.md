@@ -9,7 +9,7 @@ Supported languages for UI:
 6. [Polish](pl.json)
 7. [Portuguese](pt.json)
 8. [Russian](ru.json)
-9. [Thai](th.json) - help needed
+9. [Thai](th.json)
 10. [Traditional Chinese](zh.json)
 
 Feel free to contribute and suggest new languages.
