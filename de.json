@@ -36,6 +36,8 @@
   "board.map.type.elder.short": "Ä",
   "bar.cross.text": "Ignoriere Level",
   "bar.cross.hint": "Erlaubt dir Karten über das Kartenlevel hinaus zu tauschen. Dies sollte bei beiden Tauschpartnern aktiviert sein.",
+  "bar.region-view.text": "Region view",
+  "bar.region-view.hint": "It changes the board view and groups maps by regions instead of tiers.",
   "bar.stats.tab": "Tiers",
   "bar.stats.main": "Level - Aktive Spieler",
   "bar.stats.empty": "Keine Treffer. Versuche es später nochmal.",

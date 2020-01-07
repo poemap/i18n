@@ -36,6 +36,8 @@
   "board.map.type.elder.short": "E",
   "bar.cross.text": "Ignore tiers",
   "bar.cross.hint": "It allows you to exchange maps ignoring the tier number. This option should be enabled on both sides.",
+  "bar.region-view.text": "Region view",
+  "bar.region-view.hint": "It changes the board view and groups maps by regions instead of tiers.",
   "bar.stats.tab": "Tiers",
   "bar.stats.main": "등급 - 온라인",
   "bar.stats.empty": "Nothing was found. Try later",

@@ -36,6 +36,8 @@
   "board.map.type.elder.short": "E",
   "bar.cross.text": "Ignorar niveles",
   "bar.cross.hint": "Te permite intercambiar mapas ignorando el grado. Esta opción debe estar habilitada desde ambos lados de la negociación",
+  "bar.region-view.text": "Region view",
+  "bar.region-view.hint": "It changes the board view and groups maps by regions instead of tiers.",
   "bar.stats.tab": "Tiers",
   "bar.stats.main": "Grado - Jugadores activos",
   "bar.stats.empty": "No se encontró nada. Intenta más tarde",

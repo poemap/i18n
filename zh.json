@@ -36,6 +36,8 @@
   "board.map.type.elder.short": "E",
   "bar.cross.text": "忽略階級",
   "bar.cross.hint": "這個選項可以允許你無視地圖階級進行交換，兩側都需要開啟。",
+  "bar.region-view.text": "Region view",
+  "bar.region-view.hint": "It changes the board view and groups maps by regions instead of tiers.",
   "bar.stats.tab": "Tiers",
   "bar.stats.main": "地圖階級 - 在線玩家",
   "bar.stats.empty": "沒有任何結果，請稍後再試。",

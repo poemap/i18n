@@ -36,6 +36,8 @@
   "board.map.type.elder.short": "E",
   "bar.cross.text": "Ignorar níveis",
   "bar.cross.hint": "Permite que troque mapas ignorando os níveis. Essa opção deve estar ativa em ambos os lados.",
+  "bar.region-view.text": "Region view",
+  "bar.region-view.hint": "It changes the board view and groups maps by regions instead of tiers.",
   "bar.stats.tab": "Tiers",
   "bar.stats.main": "Nível - Jogadores ativos",
   "bar.stats.empty": "Nada foi encontrado. Tente novamente mais tarde.",
