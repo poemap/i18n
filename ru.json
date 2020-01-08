@@ -78,6 +78,7 @@
   "offer.status.ready": "Готов",
   "offer.status.rejected": "Отклонено",
   "offer.status.busy": "Занят",
+  "offer.status.offline": "Офлайн",
   "button.offer.update.hint": "Отметить сделку как завершенную и отменить регистрацию карт. Выбери карты, которые необходимо оставить",
   "button.offer.ready.hint": "Уведомить игрока, что вы готовы к обмену",
   "button.offer.copy.hint": "Скопировать сообщение для чата в буфер обмена",

@@ -78,6 +78,7 @@
   "offer.status.ready": "Listo",
   "offer.status.rejected": "Rechazado",
   "offer.status.busy": "Ocupado",
+  "offer.status.offline": "Offline",
   "button.offer.update.hint": "Marcar intercambio como terminado, desmarcar mapas. Selecciona mapas para saltear.",
   "button.offer.ready.hint": "Notificar al jugador que estás listo para el intercambio",
   "button.offer.copy.hint": "Copiar el mensaje del intercambio al portapapeles",

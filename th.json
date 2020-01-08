@@ -78,6 +78,7 @@
   "offer.status.ready": "พร้อม",
   "offer.status.rejected": "ถูกปฏิเสธ",
   "offer.status.busy": "ไม่ว่าง",
+  "offer.status.offline": "Offline",
   "button.offer.update.hint": "บันทึกการแลกเปลี่ยนว่าสำเร็จแล้ว จากนั้นปิดการเลือกแผนที่เหล่านี้",
   "button.offer.ready.hint": "แจ้งผู้เล่นว่าคุณพร้อมที่จะแลกเปลี่ยนแล้ว",
   "button.offer.copy.hint": "ก็อปปี้ข้อความสำหรับแลกเปลี่ยนไปยังคลิปบอร์ด",

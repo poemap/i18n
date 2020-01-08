@@ -78,6 +78,7 @@
   "offer.status.ready": "Bereit",
   "offer.status.rejected": "Abgelehnt",
   "offer.status.busy": "Beschäftigt",
+  "offer.status.offline": "Offline",
   "button.offer.update.hint": "Markiere den Handel als abgeschlossen und löscht die Kartenauswahl. Wähle zu überspringende Karten aus.",
   "button.offer.ready.hint": "Benachrichtige den Spieler das Du bereit bist zu handeln",
   "button.offer.copy.hint": "Kopiere die Handelsnachricht in die Zwischenablage",

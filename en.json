@@ -78,6 +78,7 @@
   "offer.status.ready": "Ready",
   "offer.status.rejected": "Rejected",
   "offer.status.busy": "Busy",
+  "offer.status.offline": "Offline",
   "button.offer.update.hint": "Mark trade as finished, unregister these maps. Select maps to skip.",
   "button.offer.ready.hint": "Notify the player that you are ready to trade",
   "button.offer.copy.hint": "Copy the trade message to the clipboard",

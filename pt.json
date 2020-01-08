@@ -78,6 +78,7 @@
   "offer.status.ready": "Pronto",
   "offer.status.rejected": "Negado",
   "offer.status.busy": "Ocupado",
+  "offer.status.offline": "Offline",
   "button.offer.update.hint": "Marque a troca como feita, remova esses mapas dos registros. Selecione mapas para pular.",
   "button.offer.ready.hint": "Notifique o jogador de que está pronto para negociar",
   "button.offer.copy.hint": "Copie a mensagem de troca para Área de Transferência",

@@ -78,6 +78,7 @@
   "offer.status.ready": "就緒",
   "offer.status.rejected": "拒絕",
   "offer.status.busy": "忙碌中",
+  "offer.status.offline": "Offline",
   "button.offer.update.hint": "標記此交易為完成，並取消選擇前列地圖，選擇地圖來略過。",
   "button.offer.ready.hint": "通知目標玩家你已準備進行交易",
   "button.offer.copy.hint": "複製交易訊息私訊內容",

@@ -78,6 +78,7 @@
   "offer.status.ready": "Prêt",
   "offer.status.rejected": "Rejeté",
   "offer.status.busy": "Occupé",
+  "offer.status.offline": "Offline",
   "button.offer.update.hint": "Marquer l'échange comme fini, délistant ces cartes. Sélectionner les cartes à ignorer.",
   "button.offer.ready.hint": "Notifier le joueur que vous êtes prêt à échanger",
   "button.offer.copy.hint": "Copier le message d'échange dans le presse-papier",

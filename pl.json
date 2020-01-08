@@ -78,6 +78,7 @@
   "offer.status.ready": "Gotowy",
   "offer.status.rejected": "Odrzucony",
   "offer.status.busy": "Zajęty",
+  "offer.status.offline": "Offline",
   "button.offer.update.hint": "Oznacz ofertę jako zakończoną, wyrejestruj mapy. Zaznacz mapy do pominięcia.",
   "button.offer.ready.hint": "Poinformuj gracza, że jesteś gotowy na wymianę",
   "button.offer.copy.hint": "Kopiuj wiadomośc o schowka",
